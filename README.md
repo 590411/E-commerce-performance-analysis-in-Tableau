@@ -73,7 +73,7 @@ Calwest E-Commerce analysis using Tableau
 
 ### Findings
 ---
-  *What is the Gross Revenue total in the dataset? Base on the BANS , the total gross revenue is $81.27M
+        *What is the Gross Revenue total in the dataset? Base on the BANS , the total gross revenue is $81.27M
 	*What is the overall Profit % in the dataset?  Base on the BANS , the  overall profit % is 54.35% 
 	*What is the profit for fact Order RowID 189787? the profit for RowID 189787 is 0.4617
 	*What is the Order Value Avg for the whole dataset ?  Base on the BANS , Order Value Avg is  $440.79
