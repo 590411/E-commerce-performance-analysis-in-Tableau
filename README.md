@@ -27,9 +27,12 @@ Calwest E-Commerce analysis using Tableau
 	  - Create a dashboard to analyse E-Commerce performance
 	  - Create a dashboard to  analyse performance location
 	  - Add interactivity to dashboards
+   
+![Screenshot 2025-03-25 233653](https://github.com/user-attachments/assets/b71baf6a-6a36-4cb1-90de-e7a9f4c05910)
 
-![5](https://github.com/user-attachments/assets/f4cff69b-3db1-4738-830c-4cdd7138462f)
+![Screenshot 2025-03-25 233716](https://github.com/user-attachments/assets/8aef7b0a-67c8-4933-bc38-6b43bde50fd2)
 
+![Screenshot 2025-03-25 233742](https://github.com/user-attachments/assets/edbda762-4458-4b17-b305-29809f837820)
 
  ### Data sources
  ---
